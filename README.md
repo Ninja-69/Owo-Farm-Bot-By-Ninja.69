@@ -14,9 +14,15 @@
 
 
 credits: Ninja
+
+
 help?
+
 dm me on discord
+
 username - ninja.69#0000
+
+
 [SUPPORTSRV](https://dsc.gg/itzmeninja)
 
 ---
