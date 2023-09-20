@@ -43,7 +43,7 @@ To start up the bot on replit, go to the 'Secrets' tab on replit (the lock icon)
 
 **Secrets you have to put**:
 
-`TOMEN` ~~-->~~ The token of the user you want to autoFARM\
+`TOKEN` ~~-->~~ The token of the user you want to autoFARM\
 
 **Other Things you can change:**\
 Prefix ~~-->~~ You can change the prefix of the commands of the bot by changing the going To `main.py` Line 12 .
@@ -56,7 +56,7 @@ Prefix ~~-->~~ You can change the prefix of the commands of the bot by changing 
 
 **warnings**
 (REMEMBER THIS IS SELF BOT SO YOU HAVE TO GIVE YOUR ID TOKEN , NOT BOT TOKEN , ALSO USE AN ALT! TRANSFER COINS , Also If You Got Problem like Port Already Use or Any Ports Problem , go to `Webserver.py` Line 8 Change Port To Any Random 4 digit numbers
-
+ff
 #### <b>Running</b>
 Once you have installed the correct dependencies, click the green 'Run' icon at the top of your webpage. If a new window opens up with 'Bot logged on' written inside, and `Logged into account: <account name>` has appeared into your console, then the bot has successfully started.
 
